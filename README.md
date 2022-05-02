@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 👯 I’m Jumanah Jan
+- 👀 I’m interested in front-end design 
+- 🌱 I’m currently learning HTML, CSS & Java Script
+- 🔭 I’m currently working on my Senior Project
+- 📫 How to reach me: j.jumanah99@gmail.com
 
 
 
