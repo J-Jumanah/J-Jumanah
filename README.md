@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 👯 I’m Jumanah Jan
-- 👀 I’m interested in front-end design 
-- 🌱 I’m currently learning HTML, CSS & Java Script
-- 📫 How to reach me: j.jumanah99@gmail.com
+- 👀 I’m interested in learning new programming languages
+- 🌱 I’m currently learning Data Science and Machine Learning
+- 📫 How to reach me: j.jumanahjan@gmail.com
 
 
 
